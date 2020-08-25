@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+nav ul li {
+display: inline;
+margin-left: 300px;
+color: yellow;
+font-size: 40px;
+}
+#pancake {
+    width: 500px;
+}
