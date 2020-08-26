@@ -10,8 +10,28 @@ nav ul li {
 display: inline;
 margin-left: 300px;
 color: yellow;
-font-size: 40px;
+font-size: 30px;
 }
+#waffle-ds {
+    font-size: 25px;
+}
+#crepe-ds{
+    font-size: 25px;
+}
+#contact {
+    font-size: 20px;
+    
+}
+#waffle {
+    width: 400px;
+    opacity: 0.85;
+}
+#crepe {
+    width: 300px;
+    opacity: 0.85;
+}
+
 #pancake {
-    width: 500px;
+    width: 400px;
+    opacity: 0.8;
 }
